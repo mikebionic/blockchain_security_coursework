@@ -202,3 +202,186 @@ Federal Bureau of Investigation: In 2015, the FBI warned of IoT vulnerabilities 
 U.S. Congress It introduced the law to improve the cybersecurity of the Internet of Things, so any device sold to the government of this country has no preset passwords, patch forms and other weaknesses. Even if it addresses only the Executive, it establishes the basis for measures taken by manufacturers. Congress also presented the state of Modern Application, Research and Trends of the IoT Law, which will be studied by the Department of Commerce.
 General Data Protection Regulations: Formulated by the European Union, it is respected by the manufacturers of IoT devices and networks.
 
+
+----
+
+How Blockchain Technology Works
+
+The three fundamental properties of blockchain technology as a data structure ( i.e., distribution, immutability and decentralization, can benefit the Internet of Things (IoT), said Arthur Carvahlo, a blockchain expert and the Dinesh and Ila Paliwal Innovation Chair at the Farmer School of Business at Miami University.
+
+Carvahlo illustrated these properties and how they can benefit the Internet of Things (IoT) ecosystem by considering surveillance cameras as IoT devices.
+
+Say a burglar is planning a sophisticated act on a high-profile target. To prevent the act from being recorded, the burglar can first attack the server running the database where the videos are stored, he said.
+
+The distributed aspect of blockchain means that data are replicated across several computers. This fact makes the hacking more challenging since there are now several target devices.
+
+The redundancy in storage brought by blockchain technology brings extra security and enhances data access since users in IoT ecosystems can submit to and retrieve their data from different devices, Carvahlo said.
+
+Continuing with this example, say the burglar is captured and claims in court that the recorded video is forged evidence. The immutability nature of blockchain technology means that any change to the stored data can be easily detected. Thus, the burglar’s claim can be verified by looking at attempts to tamper with the data, he said.
+
+However, the decentralization aspect of blockchain technology can be a major issue when storing data from IoT devices, according to Carvahlo.
+
+“Decentralization means that the computers used to store data [in a distributed fashion] might belong to different entities,” he said. “In other words, if not implemented appropriately, there is a risk that users’ sensitive data can now be by default stored by and available to third parties.”
+
+
+A different possibility when using blockchain in the IoT context is to store access logs and permissions, according to Carvahlo. Specifically, the distributed and decentralization aspects of blockchain make it notoriously expensive to store big data. An alternative is to keep the data in a central repository while storing logs concerning access to the data using blockchain technology, he said.
+
+Thereafter, users have an immutable data structure that can tell who accessed their data and when that happened, he said. Going one step further, blockchain technology can be used to store data access permissions issued by users.
+
+“Any third party requiring access to a user’s data must request it first and such a request and response can be stored in the blockchain,” Carvahlo said. “Now, users and data requesters have an immutable database that can unequivocally determine who has access to specific data and for long that access is valid. This application has a great potential to enhance privacy and even be the backbone of a data marketplace where users can profit from selling their own data.”
+
+The Benefits of Blockchain and IoT
+
+A blockchain’s distributed ledger is tamper-proof, eliminating the need for the involved parties to trust one another, said Andres Ricaurte, senior vice president and global head of payments at an IT services company. As such, no single party has control over the massive amount of data the IoT devices generate. Blockchain encryption makes it virtually impossible for anyone to overwrite existing data records. And using blockchain to store IoT data adds another layer of security to prevent malicious attackers from gaining access to the network.
+
+A primary challenge for IoT players is to protect the information in the entire IoT ecosystem, said Vipul Parekh, senior director with management consulting firm Alvarez & Marsal. Security vulnerabilities make IoT devices an easy target for distributed-denial-of-service attacks, malicious attackers and data breaches.
+
+The integration of IoT and blockchain opens the door for new possibilities that inherently reduce inefficiencies, enhance security and improve transparency for all involved parties while enabling secured machine-to-machine transactions, Parekh said. The coupling of these technologies allows a physical asset to be tracked from the moment raw materials are mined, for example, and among every step of the supply chain until it is with the end consumer.
+
+Parekh noted the following benefits of integrating blockchain and IoT.
+
+Enhanced security. Blockchain technology incorporates security with the ability to verify and allow transactions originated by a trusted party as well as encryption while data is being transmitted and stored. Blockchain technology provides transparency about who has access, who is transacting and a record of all of the interactions. Plus, blockchain adds a security layer in terms of encryption, the removal of single point of failure and the ability to quickly identify the weak link in the entire network.
+Reduced costs. By automating the transaction validation and processing steps on blockchain, the entire ecosystem can be made proactive at a reduced cost.
+Speed of transactions. This is especially true for supply chain transactions with multiple suppliers, producers, distributors and consumers. With the blockchain serving as a shared ledger to a degree, untrusted parties can exchange data directly with one another, eliminating the manual processes and increasing the speed of transactions.
+The challenge for every technology is being clear about the customer problem or need that is being met, said John Rossman, managing partner at consulting firm Rossman Partners, former Amazon executive and author of “The Amazon Way: 14 Leadership Principles Behind the World’s Most Disruptive Company.”
+
+“While at Amazon, we addressed this challenge with a technique called ‘working backwards’ where we started with the customer and worked backwards to the solution,” Rossman said. “Blockchain is an example that suffers from sounding like a transformational technology, but the meaningful adoption beyond cryptocurrencies has not met the hype. In figuring out how blockchain can benefit the Internet of Things, let’s start with the customer and work backwards.”
+
+
+There are many challenges in IoT deployments, including costs, security, privacy and data exchange. While these are separate issues, there are many dependencies to them, according to Rossman.
+
+“Customers of IoT, oftentimes a collaboration of business partners, need the data and insights from IoT devices quickly, at a performant cost basis, and they must be trustworthy,” he said. “The blockchain can be the backbone ledger helping with all of these.”
+
+Blockchain is encrypted and secure by design with many independent nodes verifying updates to the chain prior to updates to avoid nefarious actions, Rossman said. This is secure by design. The blockchain can be inspected and verified by all parties, helping to improve both access and trust to the data without burdensome and costly bureaucratic layers. This greatly improves access, trust and cost.
+
+Use Cases for Blockchain and IoT
+
+The use cases for blockchain and IoT include the following:
+
+Supply chain/smart contracts IoT and blockchain can be combined for quality assurance in the supply chain, said John Thielens, CTO of Cleo. Perishable goods, such as wine or rare foods, are typically subjected to varying temperatures and light exposures as they pass through transportation and warehousing networks. “By combining IoT and blockchain, the journey of the perishable goods from producer to retailer can be captured,” Thielens said. “Location and temperature data can be collected and incorporated into the blockchain at the case or pallet level, enabling the ability to check the history of the product as it passes through the supply chain and reject accepting the product and moving it forward if the terms of the handling contract have been violated.”
+Other than storing data, some blockchain models allow organizations to store and run immutable algorithms in a distributed and decentralized fashion, Carvahlo said. Often called smart contracts, these algorithms enable companies to encode business and domain rules naturally.
+
+Consider a supply chain example where a product requires cold storage, Carvahlo said.
+
+“IoT devices, such as temperature sensors, can continuously monitor the temperature of packages and send data to a running smart contract, which can in real-time inform stakeholders of any temperature drop,” Carvahlo said. “Since the smart contract is running on top of blockchain, the underlying temperature data are stored in an immutable data structure, which helps prevent data tampering.”
+
+Truck leasing. IoT sensors placed in leased trucks can record key events on a blockchain to help manage fleet whereabouts and returns and also to support more meaningful billing practices, according to the Gartner Inc. report “Integrating Blockchain With IoT Strengthens Trust in Multiparty Processes.”
+“With IoT sensors on board trucks, truck leasing companies can charge renters’ fees based on the torque of the loads rather than on mileage, which is the current practice,” the report noted. “The blockchain distributed ledger technology supports a shared, single version of truth across participants. No single entity is in control of the data, and the truckers and leasing companies can all independently verify their own copy of the distributed ledger. This blockchain/IoT integration should help the leasing companies increase revenue and cut costs.”
+
+Oil operations and field service. IoT sensors on oil and water wells can enable oil companies to manage the performance of hauling companies that pick up and deliver oil and water from the wells and transport them to various destinations, including environmental waste dumping grounds, according to the Garter report.
+“The IoT sensors on the wells help the oil companies schedule truck pickups and allow them to monitor the amount of material picked up and delivered to eliminate fraud and false representations,” the report noted. “[T]he blockchain distributed ledger technology records key events in the logistics chain and supports a shared single version of independently verifiable truth across multiple participants.”
+
+In this use case, implementing blockchain could help the oil companies save money and operate their pickup and delivery operations more efficiently, according to the Gartner report. In addition, by giving regulators a view into the data, such as the amount of water delivered to a water dumping ground as compared to the amount picked up from the water well, the blockchain distributed ledger technology will help the oil company manage its compliance reporting requirements., Gartner noted.
+
+Challenges of Integrating Blockchain Technology With IoT
+
+One of the biggest challenges associated with integrating blockchain and IoT revolves around the constraints associated with the limited battery life of some IoT devices, according to Paul Brody, global innovation leader, blockchain technology at EY.
+
+“Some IoT devices are connected to the power and Wi-Fi all the time, so you don’t really have substantial constraints,” he said. “But a lot of IoT devices aren’t. And you can’t have a compute- and bandwidth-intensive blockchain transaction system going on a very, very small device. So they may need to use some kind of server-based infrastructure or they may need to get help from a gateway device or related device. So these ecosystems by their nature are going to have to be relatively cooperative ecosystems.”
+
+In addition, device security is only as good as the weakest link in the infrastructure, Brody said.
+
+“So if I have a very sophisticated hack-resilient blockchain network, but the operating system that my device runs on is poorly patched or isn’t maintained or isn’t updated, I’ve rendered all of that pointless and my device is easily hacked at the edge,” he said.
+
+Considerations
+
+Blockchain and IoT can be an incredible combination, Parekh said. However, it is essential to note that blockchain and IoT are not evolving at the same pace.
+
+For example, blockchain has such constraints as scalability to handle large amounts of data, regulatory and data privacy issues as well as standardization, which are all pre-requisites for enterprise adoption, according to Parekh. IoT technology also needs to prove that the infrastructure is secure, efficient and resilient. It still must overcome these constraints before new business solutions become staples in enterprise technology.
+
+“In our observations, the client’s willingness to adopt these technologies is not matched by the ability to deliver successful results,” he said. “You need to equip leaders with an authentic understanding of the technologies to make the right decisions and avoid ‘a hammer looking for a nail scenario’ because not every [IoT] use case is made for blockchain. We suggest performing a business feasibility assessment to ascertain the benefits of removing intermediaries, e.g., cost, speed, reliance on market participants in completing transactions as well as the trust needed to share and maintain data integrity among participants.”
+
+
+https://www.iotworldtoday.com/2021/05/31/how-blockchain-technology-can-benefit-the-internet-of-things/
+
+----
+
+Sophisticated chips, sensors, and actuators in cars, industrial robots, or programmable logic controllers (PLCs) transmit data to the Industrial Internet of Things (IIoT) network. Distributed computing resources can use this data to convert insights into action, impacting business processes, and new ways of working. Various technical and security concerns remain unaddressed, but that’s changing.
+
+Security is a significant concern with IoT that has slowed its deployment in critical application areas. Various IoT devices demonstrate security vulnerabilities. They become an easy target for DDoS attacks (Distributed Denial of Service). In this scenario, several compromised computer systems bombard a target–such as a central server–with a vast volume of simultaneous data requests. Following that, legitimate users are denied access to the service.
+
+Another issue is that of scalability. As the number of devices connected through an IoT network grows, current centralized systems to authenticate, authorize, and connect different nodes in a network will turn into a bottleneck. To fix this, huge investments were necessary to deploy servers that can handle the information exchange, and the entire network can go down if the server becomes unavailable.
+
+Another breakthrough technology could potentially address some of the IoT security and scalability challenges: blockchain, which is deemed to be an information game-changer. At its core, a blockchain system consists of a distributed digital ledger, shared between participants in the system, that resides on the internet. Transactions or events are validated and recorded in the ledger and cannot subsequently be amended or removed. It provides a way for information to be registered and shared by a community of users. Within this community, selected members maintain their copy of the ledger and must validate any new transactions collectively through a consensus process before they are accepted on to the ledger.
+
+Built-in Security
+A blockchain is a decentralized and distributed digital ledger used to record transactions across many computers so that any record involved can’t (easily) be altered retroactively without altering all subsequent blocks. This allows the participants to verify and audit transactions independently. A blockchain database is managed autonomously using a peer-to-peer network and a distributed timestamping server. Depending on the use case, people or machines and devices can trigger blockchain transactions. Typically, all participants can access and verify all data, including the full history of a blockchain. In many applications, this eliminates the need for a central trusted authority and trust between the participants. Authentication takes place by mass collaboration that’s in turn powered by collective self-interests. In terms of cryptocurrency, a blockchain confirms that each unit of value is transferred only once, solving double spending.
+
+A blockchain network can be built several ways. They can be public, private, permissioned, or implemented by a consortium.
+
+A public blockchain is one that anyone can join and participate in, such as Bitcoin. Drawbacks might include substantial computational power required, little or no privacy for transactions, and weak security. These are essential considerations for enterprise use cases of Blockchain.
+A private blockchain network is a decentralized peer-to-peer network, with the significant difference that it’s governed by one organization. That organization controls who is allowed to participate in the network, execute a consensus protocol, and maintain the shared ledger. Depending on the use case, this can significantly boost trust and confidence between participants. A private blockchain can be run behind a corporate firewall and even be hosted on-premises.
+Businesses who set up a private blockchain will generally set up a permissioned blockchain network. It is important to note that public blockchain networks can also be permissioned. This places restrictions on who is allowed to participate in the network, and only in certain transactions. Participants need to obtain an invitation or permission to join.
+Multiple organizations can share the responsibilities of maintaining a blockchain. These pre-selected organizations determine who can submit transactions or access the data. A consortium blockchain is ideal for business when all participants need to be permissioned and have a shared responsibility for the blockchain.
+Securing a Network
+Blockchain can enable the fast processing of transactions and coordination among billions of connected devices. As the number of interconnected devices grows, the distributed ledger technology provides a viable solution to support a large number of transactions.
+
+As the distributed ledger in a blockchain system is tamper-proof, trust verification is not needed for the most part among the involved parties. Going beyond the authentication issue, blockchain can also store IoT data. This adds another layer of security that hackers would need to bypass if they want to access the network. Blockchain provides a much more robust encryption level that makes it virtually impossible to overwrite existing data records.
+
+Should the network be compromised, blockchain’s built-in transparency provides a reliable way to identify a specific source of data leakages and take remedial action. Anyone who is authorized to access the network can track the transactions that happened in the past.
+
+A few organizations are dedicated to IoT and blockchain. The most famous is IOTA, a protocol for fast transaction settlement and data integrity, with a Tangle ledger that eliminates the need for expensive mining (validation of transactions). IOTA is a promising infrastructure for IoT devices that need to process large amounts of microdata. Features of the Tangle ledger, the distributed ledger that supports IOTA, are machine-to-machine communication, fee-less micropayments, and quantum-resistant data.
+
+Another player is Chain of Things (CoT), a consortium of technologists and blockchain companies. It investigates the best possible use cases where a combination of blockchain and IoT can offer significant benefits to industrial, environmental, and humanitarian applications. So far, CoT has built Maru, an integrated blockchain and IoT hardware solution to solve issues with identity, security, and interoperability. Three developed use cases are available and named Chain of Security, Chain of Solar, and Chain of Shipping.
+
+Riddle&Code provides cryptographic tagging solutions for blockchains in smart logistics and supply chain management. Working on the integration between IoT devices and distributed ledger networks, Riddle&Code offers a combined, patented hardware and software solution that enables secure and trusted interaction with machines in the IoT age–by giving physical devices a trusted digital identity. This technology breaks through the physical/digital divide to balance the demand for paper documentation and the advantages that blockchain technology offers.
+
+Combining IoT sensors with blockchain technology, Modum.io provides data integrity for transactions involving physical products. Modum sensors record environmental conditions, such as temperature, that goods are subject to while in transit. When the goods arrive at the next transit point or end customer, the sensor data is verified against predetermined conditions in a smart contract on the blockchain. The contract validates that the terms meet all of the requirements set out by the sender, their clients, or a regulator and triggers various actions such as notifications to sender and receiver, payment, or release of goods.
+
+Hardware security
+The typical entry point for malicious entities is the same as that for goodones: Access credentials are generally regarded as the weakest areas.
+
+The success of a blockchain system hinges on secured user access to the distributed database. If an attacker gains access to another user’s highly confidential credentials, the attacker would have full control over that blockchain account (currency, assets, ID, contracts, etc.). Similarly, if users lose their credentials, they lose access to all blockchain assets and can no longer use or valorize them. Additionally, transactions and operations stored in a blockchain cannot be simply undone. Hardware-based security tokens are one effective way against attacks and unauthorized access.
+
+Storing blockchain user credentials on a computer or a cellphone is extremely risky as an attacker might identify and read confidential information. This could even be done remotely utilizing software attacks. Integrating a dedicated Hardware Security Module (HSM) into the device microcontroller can significantly enhance security. This separates critical operations and credential storage from other software operations and therefore provides robust protection against software attacks.
+
+https://eu.mouser.com/applications/securing-iot-blockchain/
+
+
+
+
+----
+
+
+
+Convenience is prioritized over security
+Connected devices are designed principally for users’ convenience: they enable easy network access, which is usually automatic or by entering user credentials. This allows people to use their devices easily from anywhere in the world. At the same time, this opens numerous doors for cybercriminals, who can access internet-connected devices and steal personal information, such as financial data or sensitive medical information.
+
+Paradoxically, most consumers are aware of these vulnerabilities of IoT devices and yet are willing to sacrifice security for the sake of convenience. Probably the most notable example of this trade-off is smart speakers often used in IoT home automation, such as Amazon Echo and Google Home. Although both companies’ employees admittedly listen to users’ conversations for the purpose of improving the services, this barely impacted the sales figures of these devices.
+
+Security is secondary to profit-making
+For example, a couple living in Milwaukee has suffered a privacy-breach incident that reminds a scene from a horror movie. A cybercriminal took over their smart home system, played disturbing music loudly, talked to them via a camera, and changed the room temperature to 32 degrees Celsius. Although this was a relatively harmless act, such incidents are becoming more common and should raise major red flags. At the end of the day, a regular consumer’s privacy is a low-hanging fruit for hackers. Until users’ information is stolen and misused, most consumers seem to be not bothered at all.
+
+From a business perspective, time to market is a critical metric in today’s competitive reality. Unfortunately, ensuring stability and security of the devices comes second. For example, the Global Print Security Landscape report reveals that in 2019 an astounding 60% of businesses in the UK, France, and Germany have been hacked through printers, which led to more than $400,000 in losses.
+
+The centralized IoT network model
+Currently, IoT uses a client/server model, or a centralized model of networking. IoT devices use a single gateway to transfer data between them and connect through a cloud server. This model has been utilized over the last decades, but it is no longer suitable for the increasing number of IoT devices and the volumes of data they share. The centralized architecture has a number of shortcomings:
+
+High costs of centralized cloud maintenance and networking equipment. The costs will continue to rise with the proliferation of connected devices.
+Low interoperability due to restricted data exchange with other centralized infrastructures.
+Single gateway is not trustworthy, as it allows gaining access to a whole IoT network by compromising a single device.
+The Mirai incident is one of the examples proving that the centralized model is not reliable. Being the largest DDoS attack ever, Mirai caused a temporary failure of many popular websites, including Amazon, Reddit, CNN, Netflix, the Guardian, Twitter, Spotify, and GitHub. The Mirai botnet first attacked Dyn, a popular DNS provider, and then the internet’s biggest websites through the unprotected network. As a result, the companies lost millions of dollars and their reputation was compromised.
+
+Blockchain IoT security comes in
+Blockchain—a decentralized distributed ledger—is a revolutionary technology that could become the key to overcoming IoT security challenges. A blockchain-based approach to IoT networks may solve many of the problems faced with the current model and improve security.
+
+The following features make blockchain an effective weapon in combating IoT cyberthreats.
+
+Decentralization
+In a blockchain ledger, data is stored on various nodes all over the world, which eliminates the single point of failure. Before adding any data to the network, all nodes must approve and verify it. Thus, no change is allowed without a common agreement from all of the network participants. This approach is named peer to peer communication and is intended to protect blockchain transactions from malicious parties. Since there is no single server, there is no chance of a man in the middle attack, when hackers can grab the information sent between a server and a device.
+
+Public access
+Blockchain is public, which means that it’s accessible to everyone in the network. All network participants can see the common history of stored blocks and transactions, but they need a private key to see the content. This gives a complete transparency to all operations and keeps data safe at the same time. Once a piece of information is stored on a blockchain, it is impossible to change it.
+
+Secure data
+Blockchain uses advanced encryption algorithms to secure data, which makes it more private. This is done primarily for financial operations to be carried out without risks. Using the blockchain model, IoT devices may send and receive messages in the same way as financial transactions to enable secure data communication between connected things.
+
+
+Examples of blockchain mechanisms for IoT security
+The application of blockchain in IoT security enables a direct information sharing between connected devices instead of communication via a centralized network, thus decreasing the susceptibility of IoT to cyber-threats. Currently, the highest rate of blockchain adoption among IoT-enabled businesses in the US is seen in pharmaceuticals, transportation and energy sectors, according to a Gartner survey . All these industries rely on transportation of physical goods, and the majority of companies that have successfully adopted blockchain are veterans of the IoT industry.
+
+Perhaps the most promising way of successfully combining the two technologies is to install chips in every IoT device. For example, the alliance of Ubirch, a blockchain-anchoring security specialist, G+D Mobile Security, and IoT carrier 1NCE has developed an IoT security service that leverages the power of blockchain and sensor-embedded chips to significantly increase security. Data no longer travels from sensors to the cloud to be approved, which single-handedly eliminates the possibility of the ‘man in the middle’ type of hacking attacks. Now the information is sealed by a private key directly on the device and is anchored in a public blockchain, which means that data about every access to a particular sensor is forever recorded on a ledger. Adopting smart contracts for this purpose also opens up more opportunities for enhancing enterprise cybersecurity.
+
+Modum.io, a Zurich-based startup, combines IoT with blockchain to help Swiss Post track the temperature of heat-sensitive packages. Temperature-sensitive cargo is a major concern for logistics companies. Modum.io has solved the problem by developing the MODsense T temperature logger, which automatically reports temperature each time the packet is scanned along the journey. Not only it protects customers, but it also allows Swiss Post to gain insight into how exactly temperature-related problems occur. The data about temperature fluctuations is recorded to the blockchain, which ensures that data cannot be manipulated. Watch the video below to see the technology in action.
+
+https://www.itransition.com/blog/blockchain-iot-security

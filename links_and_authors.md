@@ -15,3 +15,9 @@ https://www.chakray.com/10-security-problems-internet-of-things/
 https://www.ibm.com/topics/blockchain-security
 
 https://www.investopedia.com/terms/b/blockchain.asp
+
+https://www.iotworldtoday.com/2021/05/31/how-blockchain-technology-can-benefit-the-internet-of-things/
+
+https://eu.mouser.com/applications/securing-iot-blockchain/
+
+https://www.itransition.com/blog/blockchain-iot-security
