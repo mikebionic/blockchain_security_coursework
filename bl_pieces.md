@@ -1,5 +1,17 @@
 Two of the most talked about technologies in today’s world are Blockchain and IoT. They are at the initial stage of maturity and there are a lot of activities taking place in the development of them and finding interesting uses of the technologies.
 
+
+-----
+Fundamentally, the data stored in a blockchain should have consisted of the following characteristics:
+
+Immutable
+Distributed
+Persistent (no loss of data)
+Unhackable
+A blockchain is an open-source application that is shared between thousands of computers. These computers follow a set of rules in order to track money that has been sent from accounts tied to the blockchain software. These qualities are mandatory in order to maintain the Blockchain's integrity and the network security within which the transactions occur.
+
+
+
 ---
 
 Blockchain is a specific type of database.
