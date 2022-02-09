@@ -1,3 +1,5 @@
+---- me_used -----------
+
 Security of Internet of Things (IoT) devices is an ongoing problem. The largely unregulated IoT market leaves plenty of room for device hacking. When considering applications such as smart homes and smart cars, this lack of security can be a real concern. A hacker, for example, could take over a self-driving car with someone in it, or make purchases based on access levels given to an IoT system. With all of the data that is collected and passed between IoT devices, strong security is a must.
 
 While there are many security recommendations for IoT devices, such as biometrics and two-factor authorization, one potential solution is blockchain IoT security. Blockchain, which is most familiar for bitcoin and Ethereum, offers an intriguing solution for IoT security. Blockchain contains strong protections against data tampering, locking access to Internet of Things devices, and allowing compromised devices in an IoT network to be shut down. Hyundai has recently backed a blockchain start-up that is specifically designed for IoT security. Called HDAC (Hyundai Digital Access Currency), this innovative approach creates a permissioned private network.
@@ -59,24 +61,6 @@ Employ experts to help you design a compliant and secure solution and help you a
 
 ---
 
-Blockchain security for the enterprise
-When building an enterprise blockchain application, it’s important to consider security at all layers of the technology stack, and how to manage governance and permissions for the network. A comprehensive security strategy for an enterprise blockchain solution includes using traditional security controls and technology-unique controls. Some of the security controls specific to enterprise blockchain solutions include:
-
-Identity and access management
-
-Key management
-
-Data privacy
-
-Secure communication
-
-Smart contract security
-
-Transaction endorsement
-Employ experts to help you design a compliant and secure solution and help you achieve your business goals. Look for a production-grade platform for building blockchain solutions that can be deployed in the technology environment of your choosing, whether that is on-premises or your preferred cloud vendor.
-
----
-
 Blockchain security tips and best practices
 When designing a blockchain solution, consider these key questions:
 
@@ -108,4 +92,4 @@ Apply conventional security controls
 Enforce business controls for blockchain
 IBM Blockchain services and consulting can help you design and activate a blockchain network that addresses governance, business value and technology needs while assuring privacy, trust and security.
 
----
+--- me_used ---------

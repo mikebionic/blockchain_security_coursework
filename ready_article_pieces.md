@@ -1,3 +1,6 @@
+---- me_used ------------
+
+
 The Internet of Things (IoT) connects people, places, and products, and in so doing, it offers opportunities for value creation and capture. Sophisticated chips, sensors, and actuators are embedded into physical items, each transmitting data to the IoT network. The analytics capabilities of the IoT use this data to convert insights into action, impacting business processes and leading to new ways of working. However, there are still a number of technical and security concerns that remain unaddressed.
 
 Security is a major concern with IoT that has hindered its large-scale deployment. IoT devices often suffer with security vulnerabilities that make them an easy target for Distributed Denial of Service (DDoS) attacks. In DDoS attacks, multiple compromised computer systems bombard a target such as a central server with a huge volume of simultaneous data requests, thereby causing a denial of service for users of the targeted system. A number of DDoS attacks in recent years have caused disruption for organisations and individuals. Unsecured IoT devices provide an easy target for cyber-criminals to exploit the weak security protection to hack them into launching DDoS attacks.
@@ -46,7 +49,7 @@ In conclusion, blockchain and IoT are both emerging technologies with great pote
 The Deloitte Garage Innovation Hub: IoT and Blockchain Showroom
 Companies should start considering the implementation of blockchain and IoT to address their business issues, ‘starting small’ by learning from current use cases and projects in the industry. Deloitte Switzerland offers clients an interactive experience in a newly-opened Garage Innovation Hub in Zurich, where they can gain hands-on experience of IoT and blockchain technology, initiate discussions and share ideas on solutions. This innovation space is designed to help organisations define their strategy around IoT and blockchain, and to inspire them to pursue it.
 
-----
+---
 
 Blockchain is a distributed database technology that provides very hard to tamper, ledger records. It allows storage of all transactions into immutable records and every record distributed across many participant nodes. The security comes from use of strong public-key cryptography, strong cryptographic hash and complete decentralisation.
 
@@ -294,7 +297,11 @@ For example, blockchain has such constraints as scalability to handle large amou
 
 https://www.iotworldtoday.com/2021/05/31/how-blockchain-technology-can-benefit-the-internet-of-things/
 
-----
+
+
+----- 
+
+
 
 Sophisticated chips, sensors, and actuators in cars, industrial robots, or programmable logic controllers (PLCs) transmit data to the Industrial Internet of Things (IIoT) network. Distributed computing resources can use this data to convert insights into action, impacting business processes, and new ways of working. Various technical and security concerns remain unaddressed, but that’s changing.
 
@@ -339,10 +346,9 @@ https://eu.mouser.com/applications/securing-iot-blockchain/
 
 
 
+-----
 
-----
-
-
+--- me_used ------
 
 Convenience is prioritized over security
 Connected devices are designed principally for users’ convenience: they enable easy network access, which is usually automatic or by entering user credentials. This allows people to use their devices easily from anywhere in the world. At the same time, this opens numerous doors for cybercriminals, who can access internet-connected devices and steal personal information, such as financial data or sensitive medical information.
@@ -385,3 +391,5 @@ Perhaps the most promising way of successfully combining the two technologies is
 Modum.io, a Zurich-based startup, combines IoT with blockchain to help Swiss Post track the temperature of heat-sensitive packages. Temperature-sensitive cargo is a major concern for logistics companies. Modum.io has solved the problem by developing the MODsense T temperature logger, which automatically reports temperature each time the packet is scanned along the journey. Not only it protects customers, but it also allows Swiss Post to gain insight into how exactly temperature-related problems occur. The data about temperature fluctuations is recorded to the blockchain, which ensures that data cannot be manipulated. Watch the video below to see the technology in action.
 
 https://www.itransition.com/blog/blockchain-iot-security
+
+--- me_used ------

@@ -1,3 +1,4 @@
+---- me_used -----------
 
 Abstract
 The deployment of Internet of Things (IoT) results in an enlarged attack surface that requires end-to-end security mitigation. IoT applications range from mission-critical predicaments (e.g., Smart Grid, Intelligent Transportation Systems, video surveillance, e-health) to business-oriented applications (e.g., banking, logistics, insurance, and contract law). There is a need for comprehensive support of security in the IoT, especially for mission-critical applications, but also for the down-stream business applications. A number of security techniques and approaches have been proposed and/or utilized. Blockchain mechanisms (BCMs) play a role in securing many IoT-oriented applications by becoming part of a security mosaic, in the context of a defenses-in-depth/Castle Approach. A blockchain is a database that stores all processed transactions – or data – in chronological order, in a set of computer memories that are tamperproof to adversaries. These transactions are then shared by all participating users. Information is stored and/or published as a public ledger that is infeasible to modify; every user or node in the system retains the same ledger as all other users or nodes in the network. This paper highlights some IoT environments where BCMs play an important role, while at the same time pointing out that BCMs are only part of the IoT Security (IoTSec) solution.
@@ -6,8 +7,6 @@ Introduction
 There now is considerable interest in the Internet of Things (IoT) as an evolution of data communications that allows direct, persistent, and automated device-to-device communication (also known as Machine-to-Machine [M2M] communication or Cyber-Physical Systems [CPSs] communication). This article is an overview and advocacy paper for the use of Blockchain Mechanisms (BCMs) for certain security requirements in IoT in general and in e-health and Intelligent Transportation Systems (ITS) applications in particular. The principal applications of blockchains to date have been for financial transactions’ execution, smart contracts, and cryptocurrencies. However, new potential applications are emerging.
 
 The IoT application space is significant; Additionally, the overlay of drones and/or virtual reality/augmented reality adds yet another dimension. Up to the present, IoT applications have focused on two broad areas: industrial automation in the context of process control in factories, (Industrial IoT); and sensing applications of all sorts, including power grid administration, traffic monitoring, ITSs, smart cities, video surveillance, body area networks/e-health, and crowdsensing (to list just a few). These two areas deal a lot with the physical aspects of the sensors, the wireless link, and to some degree, with analytics. However, there is a third class of applications that deal less with the physical nature of the sensors themselves and a lot more with the data analytics: these applications address the fundamental transformation of Business Processes (BPs) related to common commercial functions such as banking, insurance, enterprise and organizational operations (including government functions), and healthcare delivery optimization. A new wave of Business Process Reengineering (BPR) is expected to take place as part of the Digital Transformation, and will be orchestrated by advancements in IoT ICT/OT capabilities.
-
-----
 
 What is the Internet of Things (IoT) and what challenges does it pose?
 
@@ -72,7 +71,6 @@ The implementation of the Internet of Things leads to a hyper-connected world ov
 
 Among the technological solutions that favour security, besides supporting the IoT, there is WSO2. If you want to know more about it, at Chakray we will be happy to help you.
 
-----
 
 10 security problems of the IOT
 
@@ -149,3 +147,4 @@ It’s linked to a lack of rigour in data processing. Sometimes we assume that a
 
 In IoT, to guarantee this, it is necessary to optimize the techniques of access control, encryption, design privacy, safeguarding the location and any basic aspect to avoid any undesired intervention.
 
+---- me_used --------------
